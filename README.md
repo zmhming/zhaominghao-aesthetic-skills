@@ -37,6 +37,8 @@
 
 给负责安装的 AI：[INSTALL.md](INSTALL.md)。技能正文：[SKILL.md](skills/aesthetic-evidence-guide/SKILL.md)。
 
+需要 ZIP 文件时，从 [发布页下载标准技能包](https://github.com/zmhming/zhaominghao-aesthetic-skills/releases/latest)。
+
 支持标准 Skills 的工具可通过 [Skills CLI](https://github.com/vercel-labs/skills) 安装。在终端执行下面的命令，按提示选择当前使用的 AI；会使用 Node.js / npx：
 
 ```bash
