@@ -1,0 +1,4 @@
+interface:
+  display_name: "赵明昊的医美提问技能包"
+  short_description: "面向医美零基础读者，核验疗效与风险证据，拆解营销说法，支持知情选择"
+  default_prompt: "请使用 $aesthetic-evidence-guide，帮我核查这条医美宣传，解释证据、风险和面诊时值得问的问题。"
